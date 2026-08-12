@@ -1,4 +1,4 @@
-# Hi, I'm Namrah Khan 👋
+# Hi, I'm Namrah Khan 
 
 Final year CS student who likes building things that solve real problems — whether that's a web app people actually use or a model that makes sense of messy data. I'm into full-stack web development and curious about where ML and AI are heading.
 
