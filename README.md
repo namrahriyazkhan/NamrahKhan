@@ -43,11 +43,5 @@ Systems rarely break at the protocol layer alone—they break at the boundary wh
 
 ---
 
-### Connect
-
-* [namrahk30@gmail.com](mailto:namrahk30@gmail.com) &nbsp; [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="24" alt="Gmail" />](mailto:namrahk30@gmail.com)
-* [linkedin.com/in/namrahriyazkhan](https://www.linkedin.com/in/namrahriyazkhan) &nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" />](https://www.linkedin.com/in/namrahriyazkhan)
-
----
 
 > Technology is predictable; human behavior is not. Building lasting software requires mastering both.
