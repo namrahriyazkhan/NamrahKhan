@@ -4,30 +4,27 @@
 
 ---
 
-### What I Build
-
-I design intelligent defense systems, behavioral risk engines, and full-stack platforms engineered to operate reliably under real-world human noise and operational friction.
+Systems rarely break at the protocol layer alone—they break at the boundary where technology meets human psychology. I design intelligent, resilient software that models real-world behavior, evaluates risk, and simplifies complex operations.
 
 ---
 
 ### Featured Architectures
 
 **[Guardian](https://github.com/namrah-k/Guardian.git)**
-* Human-centric security engine designed to detect threats, evaluate behavioral risk, and mitigate alert fatigue.
+* Behavioral analysis system engineered to evaluate security risk, detect anomalies, and eliminate alert fatigue.
 * `Python` `Behavioral Analytics` `Threat Detection` `Risk Engine`
 
 **[InsightVox](https://github.com/namrah-k/InsightVox-Campus-Feedback-System)**
-* Two-sided campus feedback and operations platform with media uploads, private staff messaging, and real-time resolution tracking.
+* High-reliability feedback and operations platform designed for campus-wide tracking and rapid issue resolution with media uploads, private staff messaging, and real-time resolution tracking.
 * `JavaScript` `Node.js` `Express.js` `MongoDB` `REST Infrastructure`
 
 ---
 
 ### Technical Focus & Stack
 
-* **Systems & Core**: C++ · Python · JavaScript
-* **Full-Stack & Web**: React · Node.js · Express.js · Flask · HTML/CSS · MongoDB
-* **AI / ML & Data**: Scikit-learn · Pandas · NumPy
-* **Primary Inquiry**: How software performs under adversarial stress and real-world human friction.
+Domains: Security Engineering · Behavioral Machine Learning · Web Architectures
+Toolkit: C++ · Python · JavaScript · React · Node.js · Express.js · MongoDB · Flask · Git
+Active Inquiry: How software performs under adversarial stress and real-world human friction.
 
 ---
 
