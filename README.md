@@ -1,11 +1,14 @@
 <div align="center">
 
-<!-- High Clarity JetBrains Mono Dynamic Typing Header with Wide Width to prevent text clipping -->
+<!-- High Clarity JetBrains Mono Dynamic Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C6A0F6&center=true&vCenter=true&width=850&height=50&lines=Namrah+Khan;namrahk30%40gmail.com;Cybersecurity+%C2%B7+Applied+AI%2FML+%C2%B7+Full-Stack" alt="Namrah Khan Header" />
 
 </div>
 
 <br />
+
+<details>
+<summary><b>View profile.py</b> (Click to expand)</summary>
 
 ```python
 # /namrah $ cat profile.py
@@ -16,6 +19,10 @@ developer = {
     "fields": ["Cybersecurity", "Applied AI/ML", "Web Architectures"]
 }
 ```
+
+</details>
+
+<br />
 
 > Code is deterministic. Systems break when humans get involved. I build for the breakdown.
 
