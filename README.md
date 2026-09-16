@@ -2,11 +2,8 @@
 
 > Code is deterministic. Systems break when humans get involved. I build for the breakdown.
 
----
-
 Systems rarely break at the protocol layer alone—they break at the boundary where technology meets human psychology. I design intelligent, resilient software that models real-world behavior, evaluates risk, and simplifies complex operations.
 
----
 
 ### Featured Architectures
 
@@ -18,21 +15,16 @@ Systems rarely break at the protocol layer alone—they break at the boundary wh
 * High-reliability feedback and operations platform designed for campus-wide tracking and rapid issue resolution with media uploads, private staff messaging, and real-time resolution tracking.
 * `JavaScript` `Node.js` `Express.js` `MongoDB` `REST Infrastructure`
 
----
-
 ### Technical Focus & Stack
 
 Domains: Security Engineering · Behavioral Machine Learning · Web Architectures
 Toolkit: C++ · Python · JavaScript · React · Node.js · Express.js · MongoDB · Flask · Git
 Active Inquiry: How software performs under adversarial stress and real-world human friction.
 
----
-
 ### Connect
 
 * **LinkedIn**: [linkedin.com/in/namrahriyazkhan](https://www.linkedin.com/in/namrahriyazkhan)
 * **GitHub**: [github.com/namrah-k](https://github.com/namrah-k)
 
----
 
 > Technology is predictable; human behavior is not. Building lasting software requires mastering both.
