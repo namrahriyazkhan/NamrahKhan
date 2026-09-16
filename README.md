@@ -1,16 +1,11 @@
 <div align="center">
 
-<!-- High Clarity JetBrains Mono Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=C6A0F6&center=true&vCenter=true&width=650&height=60&lines=Namrah+Khan;namrahk30%40gmail.com;Cybersecurity+%C2%B7+Applied+AI%2FML+%C2%B7+Full-Stack" alt="Namrah Khan Header" />
+<!-- High Clarity JetBrains Mono Dynamic Typing Header with Wide Width to prevent text clipping -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C6A0F6&center=true&vCenter=true&width=850&height=50&lines=Namrah+Khan;namrahk30%40gmail.com;Cybersecurity+%C2%B7+Applied+AI%2FML+%C2%B7+Full-Stack" alt="Namrah Khan Header" />
 
 </div>
 
 <br />
-
-<!-- Small Snoopy Walking Left to Right Once -->
-<marquee behavior="slide" direction="right" scrollamount="4">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpucDF2eHlyemcxbXUxeTY1cndlZHBqOXNmOWJiaXVxMWl1OGc1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFfcd1EfsxZ4c/giphy.gif" width="45" alt="Snoopy Walking" />
-</marquee>
 
 ```python
 # /namrah $ cat profile.py
