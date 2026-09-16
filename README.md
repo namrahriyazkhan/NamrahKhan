@@ -7,23 +7,6 @@
 
 <br />
 
-<details>
-<summary><b>View profile.py</b> (Click to expand)</summary>
-
-```python
-# /namrah $ cat profile.py
-
-developer = {
-    "name": "Namrah Khan",
-    "email": "namrahk30@gmail.com",
-    "fields": ["Cybersecurity", "Applied AI/ML", "Web Architectures"]
-}
-```
-
-</details>
-
-<br />
-
 > Code is deterministic. Systems break when humans get involved. I build for the breakdown.
 
 Systems rarely break at the protocol layer alone—they break at the boundary where technology meets human psychology. I design intelligent, resilient software that models real-world behavior, evaluates risk, and simplifies complex operations.
@@ -49,6 +32,5 @@ Systems rarely break at the protocol layer alone—they break at the boundary wh
 * **Active Inquiry**: How software performs under adversarial stress and real-world human friction.
 
 ---
-
 
 > Technology is predictable; human behavior is not. Building lasting software requires mastering both.
