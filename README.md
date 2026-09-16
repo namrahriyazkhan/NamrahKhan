@@ -1,38 +1,41 @@
-# Hi, I'm Namrah Khan 
+# Namrah Khan
 
-Final year CS student who likes building things that solve real problems — whether that's a web app people actually use or a model that makes sense of messy data. I'm into full-stack web development and curious about where ML and AI are heading.
-
----
-
-### What I work with
-
-**Languages** &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript
-
-**Frontend** &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; React
-
-**Backend** &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Express
-
-**Databases** &nbsp;·&nbsp; MongoDB
-
-**ML / Data** &nbsp;·&nbsp; Scikit-learn &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; NumPy
-
-**Tools** &nbsp;·&nbsp; Git &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Flask
+> Code is deterministic. Systems break when humans get involved. I build for the breakdown.
 
 ---
 
-### Projects
+### What I Build
 
-**[InsightVox — Campus Feedback System](https://github.com/namrah-k/InsightVox-Campus-Feedback-System)**
-Two-sided platform for campuses. Students post complaints with photo/video, vote on each other's posts, and message staff privately. Staff get a dashboard to track and resolve everything. Built with vanilla JS + Express + MongoDB.
+I design intelligent defense systems, behavioral risk engines, and full-stack platforms engineered to operate reliably under real-world human noise and operational friction.
+
+---
+
+### Featured Architectures
 
 **[Guardian](https://github.com/namrah-k/Guardian.git)**
+* Human-centric security engine designed to detect threats, evaluate behavioral risk, and mitigate alert fatigue.
+* `Python` `Behavioral Analytics` `Threat Detection` `Risk Engine`
+
+**[InsightVox](https://github.com/namrah-k/InsightVox-Campus-Feedback-System)**
+* Two-sided campus feedback and operations platform with media uploads, private staff messaging, and real-time resolution tracking.
+* `JavaScript` `Node.js` `Express.js` `MongoDB` `REST Infrastructure`
+
+---
+
+### Technical Focus & Stack
+
+* **Systems & Core**: C++ · Python · JavaScript
+* **Full-Stack & Web**: React · Node.js · Express.js · Flask · HTML/CSS · MongoDB
+* **AI / ML & Data**: Scikit-learn · Pandas · NumPy
+* **Primary Inquiry**: How software performs under adversarial stress and real-world human friction.
 
 ---
 
 ### Connect
 
-[LinkedIn](www.linkedin.com/in/namrahriyazkhan)
+* **LinkedIn**: [linkedin.com/in/namrahriyazkhan](https://www.linkedin.com/in/namrahriyazkhan)
+* **GitHub**: [github.com/namrah-k](https://github.com/namrah-k)
 
 ---
 
-*Looking for internship and entry-level opportunities in web development and AI/ML.*
+> Technology is predictable; human behavior is not. Building lasting software requires mastering both.
